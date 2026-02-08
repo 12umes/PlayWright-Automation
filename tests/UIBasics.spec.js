@@ -11,13 +11,13 @@ test('Browser context',async({browser})=>
 
 });
 
-test.only('UI Controls',async({page})=>
+test('UI Controls',async({page})=>
    
     {
  
   await page.goto("https://rahulshettyacademy.com/loginpagePractise/");
   await page.locator('#username').fill('rahulshettyacademy');
-  await page.locator('#password').fill('rahulshettyacademy');
+  await page.locator('#password').fill('rahulshettyjhhjghgg');
  const dropdown= await page.locator("select.form-control");
  await dropdown.selectOption("consult");
  await page.locator('.radiotextsty').last().click();
