@@ -11,7 +11,7 @@ test('Browser context',async({browser})=>
 
 });
 
-test('UI Controls',async({page})=>
+test.only('UI Controls',async({page})=>
    
     {
  
