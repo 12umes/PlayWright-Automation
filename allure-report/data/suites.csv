@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","3","Actions","","2026-04-17","failed","2026-04-17","","tests\mousehover.spec.js","",""
+"","4","Page playwright test","","2026-04-17","failed","2026-04-17","","tests\UIBasics.spec.js","",""
+"","2","Actions","","2026-04-17","failed","2026-04-17","","tests\UIbasics2.spec.js","",""
+"","2","Actions","","2026-04-17","failed","2026-04-17","","tests\LearningPlaywright\UIbasics2.spec.js","",""
+"","4","File Uploads","","2026-04-17","failed","2026-04-17","","tests\fileupload.spec.js","",""
