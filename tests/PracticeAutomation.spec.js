@@ -44,5 +44,8 @@ await page.goto('https://practice-automation.com/form-fields/?utm_source=chatgpt
         await page.locator("//input[@id='name-input']").fill('Umesh');
         
 });
+test('Alerts',async({page})=>{
 
+
+});
 
